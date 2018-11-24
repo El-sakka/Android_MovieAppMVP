@@ -13,7 +13,7 @@ import www.sakkawy.com.movieappmvp.Model.Result;
 import www.sakkawy.com.movieappmvp.Presenter.PresenterMovieImp;
 
 public class MovieClient {
-    public final static String API_KEY ="3c15dbf274c6641b91228b202383fdc9";
+    public final static String API_KEY ="Your_API_KEY";
     public final static String BASE_URL="http://api.themoviedb.org/3/movie/";
 
     public static Retrofit retrofit = null;
